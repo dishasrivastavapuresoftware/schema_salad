@@ -168,4 +168,4 @@ jobs:
             pip install setuptools wheel && \
             pip install tox tox-gh-actions && \
             tox && \
-            deactivate
+            deactivate'
